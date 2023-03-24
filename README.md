@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darshanbr7
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning  MERN full stack
+- 🌱 I’m currently learning  Java Full Stack Web Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
